@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+welcome to my owns page on github.io
+I am learning to set my own site on github
+Hope everything will be fun 
 
 You can use the [editor on GitHub](https://github.com/GraceliCoco/hlp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
